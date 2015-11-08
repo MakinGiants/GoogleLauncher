@@ -1,9 +1,6 @@
-# Google Launcher[![Google Play](http://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.makingiants.googlelauncher)
+<img src="http://1.bp.blogspot.com/-ZXJ12NP34Wo/UWB53UhJDGI/AAAAAAAABuc/K6igS3kHuss/s640/banner+google.jpg">
 
-<a href="https://play.google.com/store/apps/details?id=com.makingiants.googlelauncher" alt="Blackberry World">
-	<img src="http://1.bp.blogspot.com/-ZXJ12NP34Wo/UWB53UhJDGI/AAAAAAAABuc/K6igS3kHuss/s640/banner+google.jpg">
-</a>
-
+*BANNED FROM GOOGLE PLAY STORE*
 Blackberry and Android Eclipse project to use the shortcuts for google apps.
 
 
