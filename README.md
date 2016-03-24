@@ -1,7 +1,7 @@
 <img src="http://1.bp.blogspot.com/-ZXJ12NP34Wo/UWB53UhJDGI/AAAAAAAABuc/K6igS3kHuss/s640/banner+google.jpg">
 
 *BANNED FROM GOOGLE PLAY STORE*
-Blackberry and Android Eclipse project to use the shortcuts for google apps.
+Blackberry and Android Eclipse project because use shortcuts for google apps.
 
 
 ## License
