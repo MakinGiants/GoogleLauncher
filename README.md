@@ -3,6 +3,7 @@
 *BANNED FROM GOOGLE PLAY STORE*
 Blackberry and Android Eclipse project because use shortcuts for google apps.
 
+Updated to Android Studio 1.1
 
 ## License
 
